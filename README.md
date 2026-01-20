@@ -146,6 +146,10 @@ This project delivers a **production-style analytics solution** that enables hot
 - Make faster, data-driven decisions
 
 ---
+##Sample Screenshot of the Dashboard
+
+https://github.com/riyazanalyst/-Hotel-Analytics-Dashboard-Snowflake-/issues/1#issue-3833087588
+---
 
 ## 📌 Future Enhancements
 
