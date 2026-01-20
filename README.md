@@ -146,7 +146,7 @@ This project delivers a **production-style analytics solution** that enables hot
 - Make faster, data-driven decisions
 
 ---
-##Sample Screenshot of the Dashboard
+## Sample Screenshot of the Dashboard
 
 <img width="1654" height="756" alt="Image" src="https://github.com/user-attachments/assets/ae1f6ef3-5be1-40e7-96fb-daae0b2ee368" />---
 
