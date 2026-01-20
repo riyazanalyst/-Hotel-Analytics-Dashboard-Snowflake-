@@ -148,8 +148,7 @@ This project delivers a **production-style analytics solution** that enables hot
 ---
 ##Sample Screenshot of the Dashboard
 
-https://github.com/riyazanalyst/-Hotel-Analytics-Dashboard-Snowflake-/issues/1#issue-3833087588
----
+<img width="1654" height="756" alt="Image" src="https://github.com/user-attachments/assets/ae1f6ef3-5be1-40e7-96fb-daae0b2ee368" />---
 
 ## 📌 Future Enhancements
 
